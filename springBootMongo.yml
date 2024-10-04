@@ -23,7 +23,7 @@ spec:
         app: springboot
     spec:
       containers:
-      - image: saj12/qa
+      - image: saj12/dev
         name: springboot
         ports:
         - containerPort: 8080  
